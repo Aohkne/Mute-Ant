@@ -4,10 +4,10 @@ Back-end/sign-lag-model/model.p
 Back-end/sign-lag-model/data/
 Back-end/sign-lag-model/data
 Back-end\sign-lag-model\model.p
-
 .env/
 ._pycache_/
 .vscode/
 __pycache__/
 venv/
 .venv/
+.env
